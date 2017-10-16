@@ -1,6 +1,5 @@
 module convenience
 using DataFrames, RDatasets
-#import StatsBase.sem
 export sem
 
 @doc """
